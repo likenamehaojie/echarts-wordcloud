@@ -6,7 +6,7 @@
  * Released under the MIT license
  */
 
-'use strict';
+'use client';
 
 // setImmediate
 if (!window.setImmediate) {
