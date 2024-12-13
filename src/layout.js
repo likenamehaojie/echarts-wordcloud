@@ -7,7 +7,7 @@
  */
 
 'use client';
-
+var window = {}
 if(!window){
     window = {}
 }
